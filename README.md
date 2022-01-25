@@ -7,7 +7,7 @@ This is my portfolio, all project files are sorted into thier coresponding folde
 ## Java
 
 This year my main project in java was a weather app using a custom api coded by me. The features include a five day weather forecast, a radar (WIP, not ready yet), and alerts. 
-![weatherapp](https://user-images.githubusercontent.com/47485594/151046320-fccbb1d2-3d15-4bf1-9869-9d56e62f5360.png)
+![Screenshot_2022-01-25-11-36-23_1920x1080](https://user-images.githubusercontent.com/47485594/151047073-771c910c-7f9d-471b-bd48-5668faa3f8b3.png)
 
 ---
 
