@@ -14,6 +14,9 @@ This year my main project in java was a weather app using a custom api coded by 
 ## Python
 
 This year I focused on API development in python. I wanted to make an API that created a collection of different weather APIs and then allowed you to querey multiple apis at the same time to get a more complete overview of the current weather and conditions. 
+![image](https://user-images.githubusercontent.com/47485594/151219179-7cd6d685-97fd-4ac8-9a2a-15a96b95616e.png)
+
+
 
 I also made some art in python this year, including a map of rome for my Mom using the prettymaps module. 
 ![pinkRome](https://user-images.githubusercontent.com/47485594/151046347-73f6e580-fabb-4b50-bf71-9b9f390e7288.png)
